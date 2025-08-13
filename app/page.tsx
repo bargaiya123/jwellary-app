@@ -255,4 +255,8 @@ function StatsCard({ title, value, icon: Icon, description, color }) {
 // add comment
 // hello this is test
 // add comment
+<<<<<<< HEAD
 // hello this is testgit
+=======
+// hello this is test
+>>>>>>> master
